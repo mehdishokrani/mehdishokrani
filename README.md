@@ -1,7 +1,7 @@
 ![Cover Image](cover.png)
 
-[![](https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:mehdishokrani1@gmail.com){:target="_blank"}
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mehdishokrani/){:target="_blank"}
+[![](https://img.shields.io/badge/email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:mehdishokrani1@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mehdishokrani/)
 
 
 Hello Guys ✋ <br/>
