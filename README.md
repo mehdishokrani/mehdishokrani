@@ -72,4 +72,4 @@ Agile, Scrum, Project Lifecycle Management
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mehdishokrani/) or shoot me an email at [mehdishokrani1@gmail.com](mailto:mehdishokrani1@gmail.com)!
+### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mehdishokrani/) or shoot me an email at [mehdishokrani1@gmail.com](mailto:mehdishokrani1@gmail.com)!
